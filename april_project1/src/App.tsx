@@ -1,3 +1,5 @@
+// to run app, type @ terminal cd april_project1 then type npm run start!!!! 
+
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
